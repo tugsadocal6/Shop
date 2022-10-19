@@ -1,0 +1,117 @@
+{
+  "Shops": [
+    {
+      "Id":"1",
+      "Name":"2",
+      "Gold":50,
+      "Products":[
+        {
+          "Id":"0",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"1",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"2",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"3",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"4",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        }
+      ]
+    },
+        {
+      "Id":"2",
+      "Name":"2",
+      "Gold":50,
+      "Products":[
+        {
+          "Id":"0",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"1",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"2",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"3",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"4",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        }
+      ]
+    }
+  ],
+  "Players":[
+        {
+      "Id":"1",
+      "Gold":50,
+      "Inventory":[
+        {
+          "Id":"0",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"1",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"2",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"3",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        },
+        {
+          "Id":"4",
+          "Name": "2",
+          "Description":"sdsd",
+          "Price" : 150
+        }
+      ]
+    }
+  ]
+  
+}
